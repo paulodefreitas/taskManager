@@ -36,14 +36,6 @@ Este sistema utiliza o XAMPP como plataforma de desenvolvimento web e é feito e
 <br/>&nbsp;&nbsp;<font color = "maroon">)</font><font color = "silver">;</font>&nbsp;
 </font>
 
-## Vídeo de apresentação do protótipo navegável
-
-[![Vídeo de apresentação do protótipo navegável](https://img.youtube.com/vi/U9CRoFoHSpQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=U9CRoFoHSpQ)
-
-## Vídeo de apresentação do projeto
-
-[![Vídeo de apresentação do projeto](https://img.youtube.com/vi/2vnytdLf5to/maxresdefault.jpg)](https://www.youtube.com/watch?v=2vnytdLf5to)
-
 ## Diretório
 
 C:\xampp\htdocs\taskManager
